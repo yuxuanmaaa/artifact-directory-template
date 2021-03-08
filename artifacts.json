@@ -1,6 +1,6 @@
 {
     "this-repository": "https://github.com/yuxuanmaaa/artifact-directory-template.git",
-    "project-repository": "https://github.com/neelS-hah/hindroid_replication.gitt",
+    "project-repository": "https://github.com/neelS-hah/hindroid_replication.git",
     "dockerhub-repository": "amfraenkel/fair-policing-project:latest",
     "project-website-url": "https://neels-hah.github.io/vector-embedding-exploration/",
     "project-website-code": "https://github.com/neelS-hah/vector-embedding-exploration.git"
