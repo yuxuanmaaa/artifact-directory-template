@@ -2,4 +2,4 @@ Title:
 <MY SUPER AWESOME PROJECT TITLE>
 
 Abstract:
-<MY SUPER AWESOME PROJECT ABSTRACT>
+The Android app store and its open-source features make it extremely vulnerable to malicious software, known as Malware. The current state of the art encompasses the use of advanced code analysis and corresponding machine learning models. Although along with our initial research we found that the Applications in the Android app store along with their corresponding API calls behave a lot like a language. They have their comparable own syntax, structure, and grammar. This inspired us to use techniques from Natural Language Processing(NLP) and use the same idea of creating graphical relationships between applications and APIs. Additionally, we also show that the use of these graphical embeddings maintains the integrity of classification metrics to even correctly identify and differentiate Malware and Benign applications. 
